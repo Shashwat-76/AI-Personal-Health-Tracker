@@ -1,4 +1,4 @@
-AI Personal Health Tracker ❤️
+# AI Personal Health Tracker ❤️
 
 An end-to-end Machine Learning application that analyzes fitness, diet, sleep, and lifestyle data to predict a wellness score, identify historical trends, and generate personalized health insights through an interactive Streamlit dashboard.
 
